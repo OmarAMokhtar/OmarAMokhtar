@@ -8,4 +8,5 @@ Some of my recent side projects:
 - Bringing back the opensourced strategy game 'Tribal Trouble' and hosting its multiplayer server (http://tribaltrouble.org).
 
 My YouTube channel (https://youtube.com/DevPal)
+
 My Linkedin profile (https://www.linkedin.com/in/omar-ali-mokhtar)
