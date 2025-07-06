@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @OmarAMokhtar
-- 👀 I’m interested in C++, Computer Graphics, Videography, OpenGL, OpenCV, ...
-- 🌱 I’m currently learning Blender
-- 📫 How to reach me ... my YouTube channel https://youtube.com/DevPal
+A software developer/enthusiast.
 
-<!---
-OmarAMokhtar/OmarAMokhtar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I've always been interested in computer graphics and game development. 
+
+Some of my recent side projects:
+
+- A tool for making/recording blackboard animations videos (https://rasma.app).
+- Bringing back the opensourced strategy game 'Tribal Trouble' and hosting its multiplayer server (http://tribaltrouble.org).
+
+My YouTube channel (https://youtube.com/DevPal)
+My Linkedin profile (https://www.linkedin.com/in/omar-ali-mokhtar)
